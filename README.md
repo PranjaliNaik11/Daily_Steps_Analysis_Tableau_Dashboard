@@ -2,7 +2,7 @@
 
 Welcome to the Daily Steps Visualization Dashboard project! This repository features a Tableau visualization designed to display daily step counts throughout a year using a sunburst chart. The dashboard helps users track their daily physical activity, with color-coding to highlight days with higher step counts. Additionally, the dashboard includes a Key Performance Indicator (KPI) displaying the average steps walked per day across the year.
 
-## Features
+## Features:
 
 - **Sunburst Chart:** Visualize daily step counts in a circular, hierarchical layout. Each segment represents a day, with color intensity indicating the number of steps walked.
 - **Average Steps KPI:** Display the average number of steps walked per day throughout the year as a Key Performance Indicator (KPI).
